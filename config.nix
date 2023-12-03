@@ -30,6 +30,8 @@
     background = "#fafafa";
     foreground = "#666";
     highlight = "#336";
+
+    show_indicators= false;
   };
 
   urgency_low = {
